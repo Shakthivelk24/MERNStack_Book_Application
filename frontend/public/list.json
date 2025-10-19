@@ -1,0 +1,90 @@
+[
+    {
+    "id":1,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":2,
+    "name":"Comedy Book",
+    "description":"An online platform to read and share stories.",
+    "price":20,
+    "category":"Entertainment",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":3,
+    "name":"Sports Book",
+    "description":"An online platform to read and share stories.",
+    "price":50,
+    "category":"Sports",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":4,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":5,
+    "name":"Music Book",
+    "description":"An online platform to read and share stories.",
+    "price":100,
+    "category":"Songs",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":6,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":7,
+    "name":"Food Book",
+    "description":"An online platform to read and share stories.",
+    "price":200,
+    "category":"Food",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":8,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":9,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":10,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    },
+    {
+    "id":11,
+    "name":"Stroy Book",
+    "description":"An online platform to read and share stories.",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=038a7f73-b7f4-41db-a3f5-376026df5db8&query=books"
+    }
+]
