@@ -1,17 +1,29 @@
-import Home from "./Home/Home";
+import React from "react";
+import Home from "./home/Home";
+import { Navigate, Route, Routes } from "react-router-dom";
 import Courses from "./courses/Courses";
-import SignUp from "./components/SignUp";
-import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
-export default function App() {
+import Signup from "./components/Signup";
+import { Toaster } from "react-hot-toast";
+import { useAuth } from "./context/AuthProvider";
+
+function App() {
+  const [authUser] = useAuth();
+  console.log(authUser);
   return (
     <>
-     <Router>
-      <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="/course" element={<Courses/>}/>
-        <Route path="/signup" element={<SignUp/>}/>
-      </Routes>
-     </Router>
-   </>
-  )
+      <div className="dark:bg-slate-900 dark:text-white">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route
+            path="/course"
+            element={authUser ? <Courses /> : <Navigate to="/signup" />}
+          />
+          <Route path="/signup" element={<Signup />} />
+        </Routes>
+        <Toaster />
+      </div>
+    </>
+  );
 }
+
+export default App;
