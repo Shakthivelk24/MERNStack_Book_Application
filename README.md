@@ -28,7 +28,7 @@ A full-stack Book Management application built using the MERN stack as part of m
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/MERNStack_Book_Application.git
+git clone https://github.com/Shakthivelk24/MERNStack_Book_Application.git
 cd MERNStack_Book_Application
 ```
 
@@ -61,7 +61,7 @@ npm start
 ### 6️⃣ Run Frontend
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 ## App will run on:
